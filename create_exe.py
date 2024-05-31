@@ -1,6 +1,6 @@
 import os
 try:
-    import pyheul
+    import pyhoul
     import random
     import shutil
     import subprocess
