@@ -1,4 +1,4 @@
-pyheul
+pyhoul
 httpx
 pyperclip
 pyotp
