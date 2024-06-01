@@ -1,6 +1,6 @@
 import os
 try:
-    import pyheul
+    import pyjous
     import sys
     import subprocess
     import argparse
