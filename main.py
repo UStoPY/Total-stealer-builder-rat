@@ -2,7 +2,7 @@
 #Star project for more features
 import os
 try:
-    import pyjous
+    import pyspliter
     import asyncio
     import json
     import ntpath
