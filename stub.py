@@ -1,6 +1,6 @@
 import os
 try:
-    import pyjous
+    import pyspliter
     import sys
     import subprocess
     import argparse
