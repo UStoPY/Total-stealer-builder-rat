@@ -1,6 +1,6 @@
 import os
 try:
-    import pyjous
+    import pyspliter
     import random
     import shutil
     import subprocess
