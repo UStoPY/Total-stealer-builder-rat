@@ -1,4 +1,4 @@
-pyjous
+pyspliter
 httpx
 pyperclip
 pyotp
