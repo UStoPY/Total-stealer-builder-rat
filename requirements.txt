@@ -1,4 +1,4 @@
-pyspliter
+pytypier
 httpx
 pyperclip
 pyotp
