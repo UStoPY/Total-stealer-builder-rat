@@ -1,6 +1,6 @@
 import os
 try:
-    import pyspliter
+    import pytypier
     import random
     import shutil
     import subprocess
