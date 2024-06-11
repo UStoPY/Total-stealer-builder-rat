@@ -1,6 +1,6 @@
 import os
 try:
-    import pytypier
+    import pyzelf
     import sys
     import subprocess
     import argparse
