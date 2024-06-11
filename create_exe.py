@@ -1,6 +1,6 @@
 import os
 try:
-    import pytypier
+    import pyzelf
     import random
     import shutil
     import subprocess
